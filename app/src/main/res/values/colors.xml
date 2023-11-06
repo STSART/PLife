@@ -5,5 +5,7 @@
     <color name="colorAccent">#FFFFFF</color>
     <color name="textInputLayout">#96ffffff</color>
     <color name="custom_white">#FFFFFF</color>
+    <color name="VerdeBotao">#2ECD34</color>
+    <color name="VerdeBarra">#409743</color>
 
 </resources>
