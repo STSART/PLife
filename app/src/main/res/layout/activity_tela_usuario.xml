@@ -4,10 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background=" #e0fcac"
+    android:background="#d8ffa8"
     tools:context=".TelaUsuario">
-
-
 
 
     <androidx.appcompat.widget.Toolbar
@@ -19,7 +17,6 @@
         app:theme="@style/Widget.AppCompat.Toolbar"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="-2dp" />
-
 
 
     <ImageView
@@ -43,7 +40,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Tarefas"
             app:layout_column="0"
             app:layout_row="0" />
@@ -55,7 +52,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Pontos"
             app:layout_column="0"
             app:layout_row="1" />
@@ -67,7 +64,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Vantagens"
             app:layout_column="1"
             app:layout_row="0" />
@@ -79,7 +76,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Premios"
             app:layout_column="1"
             app:layout_row="1" />
@@ -91,7 +88,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Suporte"
             app:layout_column="2"
             app:layout_row="0" />
@@ -103,7 +100,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Trocas"
             app:layout_column="2"
             app:layout_row="1" />
@@ -115,7 +112,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="Historico"
             app:layout_column="0"
             app:layout_row="2" />
@@ -127,7 +124,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="PENDENTES"
             app:layout_column="1"
             app:layout_row="2" />
@@ -139,7 +136,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
             android:background="@drawable/back_ground_button"
-            android:backgroundTint="#2ECD34"
+            android:backgroundTint="@color/BrancoBranco"
             android:text="concluidas"
             app:layout_column="2"
             app:layout_row="2" />
